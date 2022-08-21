@@ -8,6 +8,7 @@ Flask-Cors == 3.0.9
 requests == 2.25.0
 mysqlclient == 2.0.1
 pika == 1.1.0 # RabbitMQ(비동기 처리) package
+python-dotenv==0.20.0
 
 # flask 1점대 버전을 실행하면 발생하는 에러들을 해결하기위한 패키지목록
 Jinja2==3.0.3
