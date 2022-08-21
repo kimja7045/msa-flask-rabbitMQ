@@ -4,7 +4,7 @@
 
 # ETC
 
-- docker-compose up
+- docker-compose up (--build)
 
 - docker-compose exec backend sh
 
